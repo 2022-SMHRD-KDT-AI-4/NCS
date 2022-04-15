@@ -9,7 +9,7 @@ public class Ex01 {
 		for(int i =0; i<10;i++) {
 			System.out.println("¼¼¹øÂ° Ä¿¹Ô");
 		}
-		
+		System.out.println("³×¹øÂ° Ä¿¹Ô");
 		
 		
 		
