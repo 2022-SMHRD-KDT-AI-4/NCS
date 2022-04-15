@@ -20,7 +20,7 @@ public class Ex01 {
 		String input = sc.next();
 		for(int i = 0 ; i<10;i++) {
 			for(int j = 0;j<i;j++) {
-			System.out.println(input);
+			System.out.print(input);
 			}
 			System.out.println();
 		}
