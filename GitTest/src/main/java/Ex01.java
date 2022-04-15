@@ -16,6 +16,7 @@ public class Ex01 {
 
 		System.out.println("7번째 커밋");
 		
+		System.out.println("피라미드에 들어갈 별모양을 입력하시오 : ");
 		String input = sc.next();
 		for(int i = 0 ; i<10;i++) {
 			for(int j = 0;j<i;j++) {
